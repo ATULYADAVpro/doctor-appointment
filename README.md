@@ -102,3 +102,8 @@ npm run dev   # start backend server
 cd client
 npm install
 npm run dev   # start frontend Vite server
+
+```
+
+### deploy link
+https://doctor-appointment-6ito.vercel.app
